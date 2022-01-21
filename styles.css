@@ -1,0 +1,110 @@
+body{
+background-color:#EEEEEE;
+
+/* background: rgb(255,124,124); */
+/* background: linear-gradient(180deg, rgba(255,124,124,1) 0%, rgba(252,120,120,1) 33%, rgba(252,143,143,1) 37%, rgba(252,190,190,1) 57%, rgba(245,153,153,1) 81%, rgba(232,93,93,1) 100%); */
+font-family: 'Roboto Slab', serif;
+/* background-repeat:no-repeat;
+background-size: 1550rem; */
+
+}
+table{
+
+  border-collapse:separate;
+
+
+
+
+
+}
+th{
+  background-color: #1DB9C3;
+
+
+}
+
+td{
+
+padding-left: 3rem;
+padding-top: 1rem;
+}
+
+
+
+.topcolor
+{
+background-color:#1DB9C3;
+padding-bottom: 2rem;
+margin: 0;
+}
+
+.tables{
+align-content: center;
+
+}
+
+
+.headings{
+background-color:#1DB9C3;
+
+}
+
+
+
+
+
+.medals{
+width: 30px;
+height: 30px;
+border-radius: 50%;
+}
+
+.vote_now_img{
+border-radius: 50%;
+width:25px;
+height:25px;
+}
+
+.slideimg{
+border-radius:;
+  height: 25rem;
+  width:83.5rem;
+}
+
+.Rank{
+  padding-right:0;
+}
+.profile{
+padding-right:5rem;
+
+}
+
+
+.Names{
+  padding-right:20rem;
+}
+
+.Points{
+
+  padding-right:5rem;
+  margin-left: 5rem;
+  align-content: center;
+}
+
+.vote{
+  padding-right:0rem;
+
+
+}
+.losers{
+  text-align:left;
+}
+
+.color-me{
+color: black;
+}
+
+.footer{
+background-color: #1DB9C3;
+
+}
